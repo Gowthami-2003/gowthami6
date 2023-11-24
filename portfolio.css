@@ -25,12 +25,15 @@ img{
 }
  
 #Bio p{
-    margin-right: 200px;
-    margin-left: 200px;
+    background-color: pink;
+    
 }
 #PortFolio p{
-    background-color: blanchedalmond;
-    padding: 20px;
+    background-color:cornflowerblue;
+    
+}
+#Skills{
+    background-color:hotpink;
 }
 li{
     display: inline;
@@ -39,6 +42,7 @@ li{
 #Contact{
     background-color: lightsalmon;
 }
+Skills
 footer{
     background-color: rgb(80, 202, 202);
 }
